@@ -1,0 +1,4 @@
+Linux 5.14.0-1059-oem (ATWLRR1238) 	08/04/23 	_x86_64_	(8 CPU)
+
+12:19:14 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+12:19:14 PM IST  all    1.40    0.00    0.66    0.07    0.00    0.02    0.00    0.00    0.00   97.85

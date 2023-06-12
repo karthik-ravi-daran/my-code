@@ -1,0 +1,4 @@
+mpstat
+free
+uptime
+

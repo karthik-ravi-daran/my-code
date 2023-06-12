@@ -1,0 +1,11 @@
+echo mpstat
+mpstat
+echo uptime
+uptime
+echo free
+free
+echo ls
+ls
+echo df
+df
+
